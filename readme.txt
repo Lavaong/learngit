@@ -6,4 +6,4 @@ Git is a free software
 Git is a distributed version control system
 Git is a mutable index called stage
 Git tracks changes of files
-creating a branch is quick and simple
+creating a branch is quick & simple
