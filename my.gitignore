@@ -1,0 +1,8 @@
+#windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+#My configuretions
+db.ini
+deploy_key_rsa
